@@ -26,3 +26,4 @@ List of public resources, documents, and tools for Osmosis.
 - [DataHub](https://datahub.figment.io)
 - [Stake Systems](https://www.notion.so/Stake-Systems-LCD-RPC-gRPC-Instances-04a99a9a9aa14247a42944931eec7024) - LCD(REST)/RPC/gRPC
 - [Skynet Validator](http://202.61.192.186:26657/status) - RPC only
+- [Beynode](https://rpc.osmosis.beyno.de) - RPC/REST via subdomain
